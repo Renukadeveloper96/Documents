@@ -1,0 +1,4 @@
+How to open war file in eclipse ?VIPNUMBER
+
+inventeteq.mam
+tomcat:https://tomcat.apache.org/download-10.cgi

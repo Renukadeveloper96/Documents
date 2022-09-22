@@ -1,0 +1,57 @@
+void helloWorld(int noOfWord){
+System.out.println(noOfWord);
+}
+helloWorld(2)
+
+
+void helloWorld(int noOfTimes){
+for(int i=1;i<=noOfTimes;i++){
+System.out.println("hello world");
+}
+}
+helloWorld(2);
+
+
+void printNumbers(int n){
+for(int i=1;i<=10;i++){
+System.out.printf("%d",i*i).println();
+}
+}
+printNumbers(10)
+
+void sum(int a,int b,int c){
+int result=a+b+c;
+System.out.println(result);
+}
+sum(1,2,3)
+
+int sumOfTwoNumbers(int a,int b,int c){
+int sum=a+b+c;
+return sum;
+}
+int result=sumOfTwoNumbers(1,2,3)
+
+
+how to find out angle3 ?
+int angle(int angle1,int angle2){
+int angle3=180-(angle1+angle2);
+return angle3;
+}
+angle(20,30)
+
+
+class and objects
+
+class Country{
+}
+Country india=new Country();
+
+
+class Country {
+void comingSoon(){
+System.out.println("coming soon");
+}
+}
+Country russia=new Country();
+
+russia.comingSoon()

@@ -1,0 +1,4 @@
+java installation steps by steps
+C:\Program Files\Java\jdk-17.0.3\
+
+eclipse:C:\Users\ASUS\eclipse-workspace

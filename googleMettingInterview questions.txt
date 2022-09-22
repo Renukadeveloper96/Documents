@@ -1,0 +1,43 @@
+var,let and const
+=, ==, ===
+
+arrow functions
+function getUser  (x) {
+	return  x
+}
+//var getuser=(x)=>x;
+spread
+Filter method
+let number = [10,50,-10,-20]
+//function myFun(number){return number>1;}
+var finalResult=number.filter(myFun);
+console.log(finalResult);
+
+Destructuring
+let greet = 'hello'
+olleh
+
+var reverseResult=greet.reverse();//arrays
+console.log(reverseResult);
+
+//for(i=0;<greet.length();i--){
+console.log(greet);
+
+welcome-exact center
+
+Lazy loading
+virtual DOM
+
+JSX
+React Router
+render()
+
+props and state
+How to update the states 
+component’s lifecycle
+
+HOC
+Strict mode in react
+Async await
+
+Promise

@@ -1,0 +1,93 @@
+Name :Renuka Yallappa Maradagi
+E-mail :renukamaradagi@gmail.com
+Mobile no :8553362769
+Technologies :html,css,js,reactjs,bootstrap,java,Angular.
+
+
+Answers :
+	13)x=200
+     y :200
+     z :200
+     p :200
+     q :200
+	14)undefined
+15)
+unshift()
+In javascript push,pop,shift,unshift() methods are used.
+unshift():it always add the beginning of the array.
+For ex:
+Var charcter = [‘a’,’b’,’c’];
+Cons result=character.unshift(‘d’);
+console.log(result);
+Output :[‘d’, ‘a’, ‘b’,’ c’]
+
+16)
+How to make table responsive?
+We can make table responsive using bootstrap links.
+Responsive means we can see page and looking for good  in laptop,desktop,mobile etc.
+
+<div class=”container”>
+<table>
+<tr>
+	<td>Roll No</td>
+	<td> class</td>
+	<td>sub</td>
+</tr>
+<tr>
+	<th>1</th>
+	<th>2nd</th>
+	<th> english</th>
+</tr>
+</table>
+</div>
+
+
+18)”Welcome to CloudAlp Techonogies,All the employees of company should attend the meeting”
+12)What is a Closure and how do you use it?
+Closure is the combinations of functions bundled together with reference starting point.
+Everytime function is created at function creation time.
+
+Var outerscope=function(){
+Var msg=”welcome to cloudAlp”;
+Var innerscope=function(){
+console.log(msg);
+}
+return innerscope;
+}
+
+7)
+	Function checkPalindrom(string){
+Const len =string.length;
+for(let i=0;i<len/2;i++){
+if(string[i] !==string[len-1-i]){
+Return ‘It is not a palindrom’;
+}
+}
+Return ‘it is a palindrom’;
+}
+Const string =prompt(‘enter a string:’);
+
+Const value = checkPalindrom(string);
+console.log(value);
+
+20)What is the use of the <noscript> tag in JavaScript ?
+<script>
+document.write(“hello world!”)
+</script>
+<noscript>
+Sorry ,browser does not support
+</noscript>
+10)function generatePyramid(){
+Var totalRows=5;
+Var arr=new Array();
+for(var i =1,i<=totalRows;i++){
+for(var j=1;j<=i;j++){
+arr.push(j);
+}
+console.log(“\n”);
+
+
+
+
+
+
